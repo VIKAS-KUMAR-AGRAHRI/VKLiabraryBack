@@ -39,6 +39,7 @@ app.use('/api/members', memberRoutes);
 app.use('/api/plans', planRoutes);
 app.use('/api/billings', billingRoutes);
 app.use('/api/seats', seatRoutes);
+//skfjksjksjk
 app.use('/api/floors', floorRoutes);
 app.use('/api/attendances', attendanceRoutes);
 app.use('/api/sms', smsRoutes);
